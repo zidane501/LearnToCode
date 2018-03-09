@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>hello1</title>
+</head>
+<body bgcolor="#E6E6FA">
+	<font face="Times New Roman" size="3">
+    <br>
+	When you run a program you also get to see the output. <br>The example program above only has one command, <br> print"Hello, World!" and it created one line of output,
+
+	<br><br> 
+
+	<font color=blue>Hello, World!</font>
+
+	<br><br>
+    
+	Here is an analysis of this first program: <br><ul><li>print is the name of a Python command, which sends messages to <br> output.</li><li>The parentheses () after the print command are used to <br> contain what you want to print.</li><li>The quote marks " " are used as a container for the text Hello, <br> World! inside. Without quotes, Python would think that Hello was <br> meant to be a command. This would be cause an error since no such <br> command exists.</li></ul><br>You will learn more about the different pieces of a Python<br> program as you progress through these lessons.
+
+	<br><br> 
+
+	Let's see exactly what happens when we leave out the quotes. <br><br>
+
+</font>
+
+</body>
+
+</html>

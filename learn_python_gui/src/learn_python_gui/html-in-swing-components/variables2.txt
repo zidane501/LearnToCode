@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+Look at the 5 lines of the program in order, and how they correspond <br>to the output. As you can see, myLuckyNumber keeps its value of 13 <br>for the first two print statements, then its value is changed to <br>7. We also introduced the plus operator (+) above, which adds two <br>numbers together. Similarly, there are operators for subtraction <br>(-), multiplication (*), and division (/). We'll return to these <br>in a later lesson. You can simulate the memory storage of a <br>computer with paper and pencil, by keeping track of the values in <br>a table. Here is an example; remember that * means multiplication <br>in Python.
+</body>
+</html>

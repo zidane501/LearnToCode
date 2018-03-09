@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body bgcolor="#ffffff">
+    
+<h2><font face="Times New Roman" size="3">Hej!</font></h2>
+
+<font face="Times New Roman" size="3"> This website teaches computer programming. This skill is very <br> useful: with programming you can automate computer tasks, <br> make art and music, interpret and analyze survey results, <br> build tools for other people, create custom websites, write <br> games, examine genetic data, connect people with each <br> other, and the list goes on and on. <br><br> A computer program is a series of instructions, written in <br> words, numbers and symbols. Just like any spoken sentence is in <br> a human language like English or French, every computer <br> program is in a programming language. A few popular <br> programming languages are Python (what we will teach here), C++, <br> JavaScript and PHP. We have chosen to teach Python since it <br> is both simple enough for beginners and powerful enough to <br> be used by modern companies. All programming languages use <br> the same general principles, so after you know any one <br> language, you can learn others more quickly. <br><br> Here is the first line of Python code in our lessons. <br><br> </font>   
+</body>
+</html>
+
+

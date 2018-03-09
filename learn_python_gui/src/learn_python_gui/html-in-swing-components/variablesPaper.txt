@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+   
+<table style="width:100%">
+<tr><td><b>Kode</b></td><td><b>first</b></td><td><b>second</b></td><td><b>third</b></td></tr><tr><td>first = 2</td><td>2</td> <td></td><td></td></tr><tr><td>second = 3</td><td>2</td> <td>3</td><td></td></tr><tr><td>third = first * second</td><td>2</td> <td>3</td><td>6</td></tr><tr><td>second = third - first</td><td>2</td><td>4</td><td>6</td></tr><tr><td>first = first + second + third</td><td><SPAN STYLE="text-decoration:line-through">2</SPAN> 12</td><td>4</td><td>6</td></tr><tr><td>third = second * first</td><td>12</td><td>4</td><td><SPAN STYLE="text-decoration:line-through">6</SPAN> 48</td></tr></table>
+</body>
+</html>
