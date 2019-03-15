@@ -1,0 +1,8 @@
+ --- modulename: outPutTrace, funcname: <module>
+2):  4):  96
+
+
+
+2>>>
+4>>>a:::24:::int---
+4>>>a:::24:::int---
